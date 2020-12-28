@@ -1,0 +1,10 @@
+{
+  "name": "bot-twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "adsonatural <adsonhenriquesilva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
