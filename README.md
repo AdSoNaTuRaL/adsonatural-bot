@@ -29,7 +29,7 @@ $ cd adsonatural-bot/src
 # Rename config.example.js to config.js
 $ mv config.example.js config.js
 
-# Fill it in with your credentials and save
+#  Open the config.js and fill it in with your credentials and save
 ```
 ```js
 // Before running this project, put the word you want to search for
