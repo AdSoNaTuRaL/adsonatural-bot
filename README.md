@@ -13,7 +13,7 @@
 
 <br />
 
-<p align="center">Before running this application, you need to create a developer Twitter account, create an application and generate your credentials (keys and tokens)</p>
+<p align="center">Before running this application, you need to create a developer Twitter account; create an application and generate your credentials (keys and tokens)</p>
 
 <br />
 
