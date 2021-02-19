@@ -1,5 +1,4 @@
 <div align="center">
-   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="Happy" width="280"/>
    <h4>A Twitter bot that retweets each tweet given a search keyword/ hashtag </h4>
 </div>
 
