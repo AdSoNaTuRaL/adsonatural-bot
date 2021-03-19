@@ -50,4 +50,4 @@ $ node src/bot.js
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [adsonatural-bot](https://github.com/AdSoNaTuRaL/adsonatural-bot/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [adsonatural-bot](https://github.com/AdSoNaTuRaL/adsonatural-bot/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
