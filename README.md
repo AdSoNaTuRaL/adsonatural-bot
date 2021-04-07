@@ -1,5 +1,5 @@
 <div align="center">
-   <h4>A Twitter bot that retweets each tweet given a search keyword/ hashtag </h4>
+   <h4>A Twitter bot that retweets each tweet given a search keyword </h4>
 </div>
 
 <div align="center">
