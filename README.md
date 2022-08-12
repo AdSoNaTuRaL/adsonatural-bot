@@ -2,14 +2,6 @@
    <h4>A Twitter bot that retweets each tweet given a search keyword </h4>
 </div>
 
-<div align="center">
-  <sub>Follow me on
-    <a href="https://twitter.com/adsonatural">
-      Twitter
-    </a>
-  </sub>
-</div>
-
 <br />
 
 <p align="center">Before running this application, you need to create a developer Twitter account; create an application and generate your credentials (keys and tokens)</p>
